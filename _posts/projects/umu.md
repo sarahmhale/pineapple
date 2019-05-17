@@ -9,7 +9,7 @@ meta:
 project:
   title: "Umeå University Student App"
   type: "Fullstack developer"
-  logo: "/assets/images/projects/redpineapple/logo.png"
+  logo: "/assets/images/projects/umu/logo.png"
   tech: "React Native, Node.js, Redux, mySQL"
 
 agency:
@@ -18,13 +18,13 @@ agency:
 
 images:
   - image:
-    url: "/assets/images/projects/redpineapple/devices.jpg"
+    url: "/assets/images/projects/umu/devices.jpg"
     alt: "Red Pineapple website on tablet, mobile and desktop"
   - image:
-    url: "/assets/images/projects/redpineapple/desktop.jpg"
+    url: "/assets/images/projects/umu/desktop.jpg"
     alt: "Red Pineapple website on a desktop device"
   - image:
-    url: "/assets/images/projects/redpineapple/mobile.jpg"
+    url: "/assets/images/projects/umu/mobile.jpg"
     alt: "Red Pineapple website on a mobile device"
 ---
 <p>Pineapples are delicious tropical fruit. There are more than a hundred varieties of pineapples that grow in varying sizes. The plant is indigenous to South America and is said to originate from the area between southern Brazil and Paraguay.</p>
