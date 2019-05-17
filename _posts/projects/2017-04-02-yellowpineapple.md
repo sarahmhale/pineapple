@@ -7,16 +7,15 @@ meta:
   keywords: "Jekyll, Pineapple"
 
 project:
-  title: "Yellow Pineapple"
-  type: "Jekyll"
-  url: "https://github.com/arnolds/pineapple"
+  title: "Space Finder"
+  type: "Internet of Things"
+  url: "https://github.com/sarahmhale/studieplats"
   logo: "/assets/images/projects/yellowpineapple/logo.png"
-  tech: "HTML, CSS, Boostrap, Sass, JavaScript, jQuery, Jekyll"
+  tech: "React, GraphQL"
 
 agency:
-  title: "Yellow Pineapple Co"
-  url: "https://github.com/arnolds/pineapple"
-  year: "2017, 2018"
+  title: "Umeå University"
+  year: "2018"
 
 images:
   - image:
