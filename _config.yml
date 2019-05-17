@@ -9,6 +9,8 @@ resume: "https://drive.google.com/file/d/1IwnZZeC5iLKoT90ljp-PFcuM9uMRXFlK/view"
 github: "https://github.com/sarahmhale"
 
 # Site config
+plugins:
+  - jemoji
 baseurl: ""
 highlighter: rouge
 sass:
