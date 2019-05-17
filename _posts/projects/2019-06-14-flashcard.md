@@ -9,14 +9,13 @@ meta:
 project:
   title: "Flashcard - in progress"
   type: "Fullstack"
-  url: "https://github.com/arnolds/pineapple"
+  url: "https://github.com/sarahmhale/flashcard"
   logo: "/assets/images/projects/aquapineapple/logo.png"
   tech: ""
 
 agency:
-  title: "Aqua Pineapple Co"
-  url: "https://github.com/arnolds/pineapple"
-  year: "2018"
+  title: "Me, Myself and I"
+  year: "2019"
 
 images:
   - image:
@@ -29,4 +28,4 @@ images:
     url: "/assets/images/projects/aquapineapple/mobile.jpg"
     alt: "Aqua Pineapple website on a mobile device"
 ---
-<p>In many tropical countries, pineapple is prepared and sold on roadsides as a snack. It is sold whole or in halves with a stick inserted. Chunks of pineapple are used in desserts such as fruit salad, as well as in some savory dishes, including pizza toppings, or as a grilled ring on a hamburger.</p>
+<p>We all have that side project that we love (and also hate a little bit....). This project is a flashcard app for learning languages that with the help of the camera can scan the vocabulary.</p>
