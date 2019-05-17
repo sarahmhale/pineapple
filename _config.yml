@@ -1,12 +1,12 @@
 # User config
 author: "Sarah Hale"
-tagline: "Homepage"
+tagline: "Portfolio"
 description: "In 1493, explorer Christopher Columbus found pineapples on Guadeloupe Island in the Caribbean. Pineapple on pizza soon followed..."
-keywords: "Pineapple, Pineapple Pizza, Pineapple House"
+keywords: "UX, developer"
 email: "sarahhale95@gmail.com"
-linkedin: "https://www.linkedin.com/"
-twitter: "https://twitter.com/"
-github: "https://github.com/"
+linkedin: "https://www.linkedin.com/in/sarah-hale-365a7113b/"
+resume: "https://drive.google.com/file/d/1IwnZZeC5iLKoT90ljp-PFcuM9uMRXFlK/view"
+github: "https://github.com/sarahmhale"
 
 # Site config
 baseurl: ""
