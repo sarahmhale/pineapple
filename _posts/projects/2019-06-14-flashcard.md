@@ -10,7 +10,7 @@ project:
   title: "Flashcard - in progress"
   type: "Fullstack"
   url: "https://github.com/sarahmhale/flashcard"
-  logo: "/assets/images/projects/aquapineapple/logo.png"
+  logo: "/assets/images/projects/spel/logo.png"
   tech: ""
 
 agency:
