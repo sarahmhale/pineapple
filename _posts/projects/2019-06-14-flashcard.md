@@ -19,13 +19,13 @@ agency:
 
 images:
   - image:
-    url: "/assets/images/projects/aquapineapple/devices.jpg"
+    url: "/assets/images/projects/spel/devices.jpg"
     alt: "Aqua Pineapple website on tablet, mobile and desktop"
   - image:
-    url: "/assets/images/projects/aquapineapple/desktop.jpg"
+    url: "/assets/images/projects/spel/desktop.jpg"
     alt: "Aqua Pineapple website on a desktop device"
   - image:
-    url: "/assets/images/projects/aquapineapple/mobile.jpg"
+    url: "/assets/images/projects/spel/mobile.jpg"
     alt: "Aqua Pineapple website on a mobile device"
 ---
 <p>We all have that side project that we love (and also hate a little bit....). This project is a flashcard app for learning languages that with the help of the camera can scan the vocabulary.</p>
